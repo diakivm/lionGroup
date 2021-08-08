@@ -1,0 +1,103 @@
+{
+   "products": [
+      {
+         "id": "14",
+         "type": "popular",
+         "url": "#",
+         "image": "1.png",
+         "info": "Котел Vitopend 100-W A1HB U-rlu 24 кВт",
+         "price": {
+            "present": "16 990.90 руб",
+            "old": "20 000.90 руб"
+         }
+      },
+      {
+         "id": "15",
+         "type": "promotional",
+         "url": "#",
+         "image": "1.png",
+         "info": "ECO4S 24 котел газовый настенный/двухконтурный",
+         "price": {
+            "present": "260 000.00 руб",
+            "old": ""
+         }
+      },
+      {
+         "id": "16",
+         "type": "recommended",
+         "url": "#",
+         "image": "1.png",
+         "info": "VUW 242/5-2-turbo FIT",
+         "price": {
+            "present": "26 990.90 руб",
+            "old": ""
+         }
+      },
+      {
+         "id": "17",
+         "type": "leadersOfSells",
+         "url": "#",
+         "image": "1.png",
+         "info": "Котел Vitopend 100-W A1HB U-rlu 24 кВт",
+         "price": {
+            "present": "26 990.90 руб",
+            "old": ""
+         }
+      },
+      {
+         "id": "18",
+         "type": "leadersOfSells",
+         "url": "#",
+         "image": "1.png",
+         "info": "Котел Vitopend 100-W A1HB U-rlu 24 кВт",
+         "price": {
+            "present": "16 990.90 руб",
+            "old": "20 000.90 руб"
+         }
+      },
+      {
+         "id": "19",
+         "type": "recommended",
+         "url": "#",
+         "image": "1.png",
+         "info": "ECO4S 24 котел газовый настенный/двухконтурный",
+         "price": {
+            "present": "260 000.00 руб",
+            "old": ""
+         }
+      },
+      {
+         "id": "20",
+         "type": "recommended",
+         "url": "#",
+         "image": "1.png",
+         "info": "VUW 242/5-2-turbo FIT",
+         "price": {
+            "present": "26 990.90 руб",
+            "old": ""
+         }
+      },
+      {
+         "id": "21",
+         "type": "leadersOfSells",
+         "url": "#",
+         "image": "1.png",
+         "info": "Котел Vitopend 100-W A1HB U-rlu 24 кВт",
+         "price": {
+            "present": "26 990.90 руб",
+            "old": ""
+         }
+      },
+      {
+         "id": "22",
+         "type": "bestOffers",
+         "url": "#",
+         "image": "1.png",
+         "info": "Котел Vitopend 100-W A1HB U-rlu 24 кВт",
+         "price": {
+            "present": "26 990.90 руб",
+            "old": ""
+         }
+      }
+   ]
+}

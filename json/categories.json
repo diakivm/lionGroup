@@ -1,0 +1,24 @@
+{
+   "categories": [
+      {
+         "url": "#",
+         "image": "cat4.png",
+         "label": "Копка колодцев"
+      },
+      {
+         "url": "#",
+         "image": "cat3.png",
+         "label": "Обслуживание"
+      },
+      {
+         "url": "#",
+         "image": "cat2.png",
+         "label": "Водоснабжение"
+      },
+      {
+         "url": "#",
+         "image": "cat1.png",
+         "label": "Монтаж систем отоплени"
+      }
+   ]
+}
